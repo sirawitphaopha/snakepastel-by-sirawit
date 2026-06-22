@@ -1,0 +1,21 @@
+# ===== ไฟล์ระบบ / เครื่อง =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== ไฟล์ลับ (ถ้ามีในอนาคต) =====
+.env
+.env.local
+*.key
+
+# ===== โฟลเดอร์เครื่องมือ =====
+node_modules/
+.vscode/
+.idea/
+
+# ===== ไฟล์ชั่วคราว / สำรอง =====
+*.tmp
+*.bak
+*.log
+snake_v*.html
+index (*).html
