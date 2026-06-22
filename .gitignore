@@ -19,3 +19,4 @@ node_modules/
 *.log
 snake_v*.html
 index (*).html
+*.orig
